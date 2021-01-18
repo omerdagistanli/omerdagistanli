@@ -12,6 +12,6 @@ Skills: Python / DS / ML / DL / AI
 
 
 
-## Github Stats
+## Stats
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=omerdagistanli&show_icons=true&theme=merko)
