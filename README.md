@@ -1,9 +1,8 @@
 ### Hi there 👋, I am Ömer Dağıstanlı
-#### I am Python Developer.
 
 ## Connect with me
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/omerdagistanli/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='35'>](https://www.linkedin.com/in/omerdagistanli/) 
 
 ## Stats
 
