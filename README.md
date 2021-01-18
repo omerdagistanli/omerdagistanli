@@ -2,7 +2,7 @@
 #### I am Python Developer.
 
 ## Skills and Experience
-* 
+
 Skills: Python / DS / ML / DL / AI
 
 
@@ -13,3 +13,4 @@ Skills: Python / DS / ML / DL / AI
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omerdagistanli)](https://github.com/anuraghazra/github-readme-stats)
 
+![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
