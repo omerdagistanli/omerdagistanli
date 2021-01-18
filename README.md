@@ -1,10 +1,6 @@
 ### Hi there 👋, I am Ömer Dağıstanlı
 #### I am Python Developer.
 
-## Languages and Tools
-
-![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-
 <br />
 
 ## Connect with me
