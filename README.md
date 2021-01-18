@@ -9,4 +9,4 @@ Skills: Python / DS / ML / DL / AI
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omerdagistanli)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=merko)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=omerdagistanli&show_icons=true&theme=merko)
