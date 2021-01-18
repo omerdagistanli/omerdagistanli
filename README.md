@@ -1,6 +1,8 @@
 ### Hi there 👋, I am Ömer Dağıstanlı
 #### I am Python Developer.
 
+## Skills and Experience
+* 
 Skills: Python / DS / ML / DL / AI
 
 
